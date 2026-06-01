@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(223, 215, 145);
+    color: rgb(7, 7, 8);
+    font-family: "comic sans ms, cursive, sans-serif";
+img{display:block;
+    margin-left: auto;
+    margin-right: auto;
+border-radius: 5px;
+    height: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+h1{text-align: center;
+    font-size: 50px;
+color: rgb(55, 55, 223);
+    text-shadow: 2px 2px 4px rgb(255, 255, 255);}
+
+
+
+
+
+}
+
