@@ -44,3 +44,32 @@ hr{
     width: 95%;
 }
 
+/* Menu de Navegação */
+.menu-navegacao {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.menu-navegacao a {
+    font-size: 18px;
+    color: rgb(14, 14, 146);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.menu-navegacao a:hover {
+    background-color: rgb(76, 133, 83);
+    color: white;
+    text-shadow: 2px 2px 4px rgb(34, 9, 9);
+}
+
+.menu-navegacao a strong {
+    text-decoration: underline;
+}
